@@ -1,0 +1,4 @@
+name: teamhead
+version: '1.0-SNAPSHOT'
+main: me.usti.teamhead.Teamhead
+api-version: '1.20'
